@@ -10,3 +10,8 @@ uploads/*
 .pytest_cache/
 .vscode/
 .idea/
+.gradle/
+**/build/
+local.properties
+scratch_dfd_imgs/
+
